@@ -50,16 +50,3 @@ Volume : 거래량
 
 3번째 최대 감소일: 2025-11-14 (-5.4%)
 원인: 환율 불안, HBM 경쟁 과열
-
-4. 시각화 결과
-
-`/images` 폴더에 저장된 주요 그래프:
-- `daily_return_plot.png`
-- `volatility_plot.png`
-- `event_0728.png`
-
-README에서는 아래처럼 삽입:
-
-```md
-![Daily Return](images/daily_return_plot.png)
-![Volatility](images/volatility_plot.png)
